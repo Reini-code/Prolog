@@ -1,8 +1,8 @@
-function sumarUno(x){
+function sumarUno(x) {
     return x + 1;
 }
 
-function cuadrado(x){
+function cuadrado(x) {
     return x * x;
 }
 
